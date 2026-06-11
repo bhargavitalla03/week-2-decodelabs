@@ -1,4 +1,4 @@
-Key Findings
+Key Findings:
 - Chair was the highest-selling product.
 - Phone was the lowest-selling product.
 - Online payment was the most preferred payment method.
