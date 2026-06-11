@@ -5,5 +5,6 @@ Key Findings
 - Revenue fluctuated across months.
 - A few high-value outliers were identified.
   
-Conclusion
+Conclusion:
+
 The EDA revealed important sales patterns, customer preferences, and revenue trends that can support business decision-making.
